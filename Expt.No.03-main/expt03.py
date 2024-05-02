@@ -1,6 +1,10 @@
 import pandas as pd
 import nltk
 
+pip install nltk
+
+nltk.download('punkt')
+
 # STOPWORDS
 nltk.download("stopwords")
 
